@@ -5,14 +5,14 @@
  * Author:默默
  * Date:2020-08-04
  */
-@font-face {
-  font-family: 'iconfont';  /* project id 1983619 */
-  src: url('//at.alicdn.com/t/font_1983619_035up1lpu60s.eot');
-  src: url('//at.alicdn.com/t/font_1983619_035up1lpu60s.eot?#iefix') format('embedded-opentype'),
-  url('//at.alicdn.com/t/font_1983619_035up1lpu60s.woff2') format('woff2'),
-  url('//at.alicdn.com/t/font_1983619_035up1lpu60s.woff') format('woff'),
-  url('//at.alicdn.com/t/font_1983619_035up1lpu60s.ttf') format('truetype'),
-  url('//at.alicdn.com/t/font_1983619_035up1lpu60s.svg#iconfont') format('svg');
+ @font-face {
+  font-family: 'iconfont';  /* project id 2024413 */
+  src: url('//at.alicdn.com/t/font_2024413_nm7a82w5roh.eot');
+  src: url('//at.alicdn.com/t/font_2024413_nm7a82w5roh.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_2024413_nm7a82w5roh.woff2') format('woff2'),
+  url('//at.alicdn.com/t/font_2024413_nm7a82w5roh.woff') format('woff'),
+  url('//at.alicdn.com/t/font_2024413_nm7a82w5roh.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_2024413_nm7a82w5roh.svg#iconfont') format('svg');
 }
 @font-face {
   font-family: "SourceHanSansCN-Regular";
@@ -23,14 +23,6 @@
            url("fonts/SourceHanSansCN-Regular.svg") format("svg");
 }
 
-@font-face {
-  font-family: "DIN Alternate Bold";
-  src: url("fonts/DIN Alternate Bold.woff2") format("woff2"),
-       url("fonts/DIN Alternate Bold.woff") format("woff"),
-       url("fonts/DIN Alternate Bold.ttf") format("truetype"),
-       url("fonts/DIN Alternate Bold.eot") format("embedded-opentype"),
-       url("fonts/DIN Alternate Bold.svg") format("svg");
-}
 .iconfont {
   font-family: "iconfont" !important;
   font-size: 16px;

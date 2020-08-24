@@ -30,3 +30,20 @@
  * Author:默默
  * Date:2020-08-24
 */
+.header {
+  position: fixed;
+  width: 100%;
+  left: 0;
+  top: 0;
+  height: 95px;
+  z-index: 50;
+  background: #fff;
+}
+.logo {
+  display: block;
+  float: left;
+  margin-left: 98px;
+  margin-top: 15px;
+  width: 196px;
+  height: auto;
+}
