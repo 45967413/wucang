@@ -23,6 +23,15 @@
            url("fonts/SourceHanSansCN-Regular.svg") format("svg");
 }
 
+@font-face {
+  font-family: "PFDinTextCompPro-Medium-3";
+  src: url("fonts/PFDinTextCompPro-Medium-3.woff2") format("woff2"),
+       url("fonts/PFDinTextCompPro-Medium-3.woff") format("woff"),
+       url("fonts/PFDinTextCompPro-Medium-3.ttf") format("truetype"),
+       url("fonts/PFDinTextCompPro-Medium-3.eot") format("embedded-opentype"),
+       url("fonts/PFDinTextCompPro-Medium-3.svg") format("svg");
+}
+
 .iconfont {
   font-family: "iconfont" !important;
   font-size: 16px;
@@ -279,7 +288,7 @@ a:hover {
   margin: 0px auto;
 }
 
-.slick-list { overflow: hidden; width: 100%; height: 100%; }
+.slick-list { position: relative; z-index: 0; overflow: hidden; width: 100%; height: 100%; }
 .slick-track { position: relative; left: 0; top: 0; display: block; zoom: 1;}
 .slick-track:before, .slick-track:after { content: ""; display: table; }
 .slick-track:after { clear: both;}
